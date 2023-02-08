@@ -1,5 +1,5 @@
 <html>
-<title> ChronosCloud Multi-Region Demo </title>
+<title>Multi-Region Demo</title>
 <body>
 <?php
   $urlRoot="http://169.254.169.254/latest/meta-data/";
