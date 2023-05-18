@@ -1,5 +1,5 @@
 <html>
-<title>LizaB Multi-Region Demo</title>
+<title>LizaB Maintenance Page</title>
 <body>
 <?php
   $urlRoot="http://169.254.169.254/latest/meta-data/";
